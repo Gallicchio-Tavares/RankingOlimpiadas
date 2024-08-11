@@ -1,0 +1,207 @@
+Posição ,País                               ,Ouro ,Prata ,Bronze ,Total ,Peso_Total
+      1 ,Estados Unidos                     ,  38 ,   42 ,    42 ,122.0 ,       240argenti
+      2 ,China                              ,  39 ,   27 ,    24 , 90.0 ,       195
+      3 ,França                             ,  16 ,   24 ,    22 , 62.0 ,       118
+      4 ,Grã-Bretanha                       ,  14 ,   22 ,    27 , 63.0 ,       113
+      5 ,Austrália                          ,  18 ,   18 ,    14 , 50.0 ,       104
+      6 ,Japão                              ,  18 ,   12 ,    13 , 43.0 ,        91
+      7 ,Itália                             ,  11 ,   13 ,    15 , 39.0 ,        74
+      8 ,Alemanha                           ,  12 ,   11 ,     8 , 31.0 ,        66
+      9 ,Holanda                            ,  13 ,    7 ,    12 , 32.0 ,        65
+     10 ,Coreia do Sul                      ,  13 ,    8 ,     9 , 30.0 ,        64
+     11 ,Canadá                             ,   9 ,    7 ,    11 , 27.0 ,        52
+     12 ,Nova Zelândia                      ,   9 ,    7 ,     2 , 18.0 ,        43
+     13 ,Hungria                            ,   5 ,    7 ,     6 , 18.0 ,        35
+     14 ,Brasil                             ,   3 ,    7 ,    10 , 20.0 ,        33
+     15 ,Uzbequistão                        ,   8 ,    2 ,     3 , 13.0 ,        31
+     16 ,Espanha                            ,   5 ,    4 ,     8 , 17.0 ,        31
+     17 ,Suécia                             ,   4 ,    4 ,     3 , 11.0 ,        23
+     18 ,Ucrânia                            ,   3 ,    5 ,     4 , 12.0 ,        23
+     19 ,Irã                                ,   3 ,    5 ,     2 , 10.0 ,        21
+     20 ,Quênia                             ,   4 ,    2 ,     4 , 10.0 ,        20
+     21 ,Romênia                            ,   3 ,    4 ,     1 ,  8.0 ,        18
+     22 ,Noruega                            ,   4 ,    1 ,     3 ,  8.0 ,        17
+     23 ,Bélgica                            ,   3 ,    1 ,     6 , 10.0 ,        17
+     24 ,Irlanda                            ,   4 ,    0 ,     3 ,  7.0 ,        15
+     25 ,Geórgia                            ,   3 ,    2 ,     1 ,  6.0 ,        14
+     26 ,Bulgária                           ,   3 ,    1 ,     3 ,  7.0 ,        14
+     27 ,Israel                             ,   1 ,    5 ,     1 ,  7.0 ,        14
+     28 ,Polônia                            ,   1 ,    3 ,     5 ,  9.0 ,        14
+     29 ,Cuba                               ,   2 ,    1 ,     5 ,  8.0 ,        13
+     30 ,Azerbaijão                         ,   2 ,    2 ,     2 ,  6.0 ,        12
+     31 ,Cazaquistão                        ,   1 ,    3 ,     3 ,  7.0 ,        12
+     32 ,Dinamarca                          ,   1 ,    2 ,     5 ,  8.0 ,        12
+     32 ,Suíça                              ,   1 ,    2 ,     5 ,  8.0 ,        12
+     33 ,República Tcheca                   ,   3 ,    0 ,     2 ,  5.0 ,        11
+     34 ,Croácia                            ,   2 ,    1 ,     3 ,  6.0 ,        11
+     35 ,Taiwan                             ,   2 ,    0 ,     5 ,  7.0 ,        11
+     36 ,África do Sul                      ,   1 ,    3 ,     2 ,  6.0 ,        11
+     36 ,Jamaica                            ,   1 ,    3 ,     2 ,  6.0 ,        11
+     36 ,Tailândia                          ,   1 ,    3 ,     2 ,  6.0 ,        11
+     37 ,Grécia                             ,   1 ,    1 ,     6 ,  8.0 ,        11
+     38 ,Turquia                            ,   0 ,    3 ,     5 ,  8.0 ,        11
+     39 ,Atletas Neutros (Rússia e Belarus) ,   1 ,    3 ,     1 ,  5.0 ,        10
+     40 ,Sérvia                             ,   2 ,    1 ,     1 ,  4.0 ,         9
+     41 ,Áustria                            ,   2 ,    0 ,     3 ,  5.0 ,         9
+     42 ,Equador                            ,   1 ,    2 ,     2 ,  5.0 ,         9
+     43 ,Eslovênia                          ,   2 ,    1 ,     0 ,  3.0 ,         8
+     44 ,Filipinas                          ,   2 ,    0 ,     2 ,  4.0 ,         8
+     44 ,Hong Kong                          ,   2 ,    0 ,     2 ,  4.0 ,         8
+     45 ,Portugal                           ,   1 ,    2 ,     1 ,  4.0 ,         8
+     46 ,México                             ,   0 ,    3 ,     2 ,  5.0 ,         8
+     47 ,Coreia do Norte                    ,   0 ,    2 ,     4 ,  6.0 ,         8
+     47 ,Quirguistão                        ,   0 ,    2 ,     4 ,  6.0 ,         8
+     48 ,Argélia                            ,   2 ,    0 ,     1 ,  3.0 ,         7
+     48 ,Indonésia                          ,   2 ,    0 ,     1 ,  3.0 ,         7
+     49 ,Etiópia                            ,   1 ,    2 ,     0 ,  3.0 ,         7
+     50 ,Armênia                            ,   0 ,    3 ,     1 ,  4.0 ,         7
+     51 ,Índia                              ,   0 ,    1 ,     5 ,  6.0 ,         7
+     52 ,Argentina                          ,   1 ,    1 ,     1 ,  3.0 ,         6
+     52 ,Bahrein                            ,   1 ,    1 ,     1 ,  3.0 ,         6
+     52 ,Egito                              ,   1 ,    1 ,     1 ,  3.0 ,         6
+     52 ,Tunísia                            ,   1 ,    1 ,     1 ,  3.0 ,         6
+     53 ,Colômbia                           ,   0 ,    3 ,     0 ,  3.0 ,         6
+     54 ,Lituânia                           ,   0 ,    2 ,     2 ,  4.0 ,         6
+     55 ,Botswana                           ,   1 ,    1 ,     0 ,  2.0 ,         5
+     55 ,Chile                              ,   1 ,    1 ,     0 ,      ,         5
+     55 ,Santa Lúcia                        ,   1 ,    1 ,     0 ,  2.0 ,         5
+     55 ,Uganda                             ,   1 ,    1 ,     0 ,  2.0 ,         5
+     56 ,República Dominicana               ,   1 ,    0 ,     2 ,  3.0 ,         5
+     57 ,Moldávia                           ,   0 ,    1 ,     3 ,  4.0 ,         5
+     58 ,Guatemala                          ,   1 ,    0 ,     1 ,  2.0 ,         4
+     58 ,Marrocos                           ,   1 ,    0 ,     1 ,  2.0 ,         4
+     59 ,Dominica                           ,   1 ,    0 ,     0 ,  1.0 ,         3
+     59 ,Paquistão                          ,   1 ,    0 ,     0 ,  1.0 ,         3
+     60 ,Kosovo                             ,   0 ,    1 ,     1 ,  2.0 ,         3
+     61 ,Tajiquistão                        ,   0 ,    0 ,     3 ,  3.0 ,         3
+     62 ,Chipre                             ,   0 ,    1 ,     0 ,  1.0 ,         2
+     62 ,Fiji                               ,   0 ,    1 ,     0 ,  1.0 ,         2
+     62 ,Jordânia                           ,   0 ,    1 ,     0 ,  1.0 ,         2
+     62 ,Mongólia                           ,   0 ,    1 ,     0 ,  1.0 ,         2
+     62 ,Panamá                             ,   0 ,    1 ,     0 ,  1.0 ,         2
+     63 ,Granada                            ,   0 ,    0 ,     2 ,  2.0 ,         2
+     63 ,Malásia                            ,   0 ,    0 ,     2 ,  2.0 ,         2
+     64 ,Albânia                            ,   0 ,    0 ,     1 ,  1.0 ,         1
+     64 ,Cabo Verde                         ,   0 ,    0 ,     1 ,  1.0 ,         1
+     64 ,Catar                              ,   0 ,    0 ,     1 ,  1.0 ,         1
+     64 ,Costa do Marfim                    ,   0 ,    0 ,     1 ,  1.0 ,         1
+     64 ,Eslováquia                         ,   0 ,    0 ,     1 ,  1.0 ,         1
+     64 ,Peru                               ,   0 ,    0 ,     1 ,  1.0 ,         1
+     64 ,Porto Rico                         ,   0 ,    0 ,     1 ,  1.0 ,         1
+     64 ,Singapura                          ,   0 ,    0 ,     1 ,  1.0 ,         1
+     64 ,Time dos Refugiados                ,   0 ,    0 ,     1 ,  1.0 ,         1
+     64 ,Zâmbia                             ,   0 ,    0 ,     1 ,  1.0 ,         1
+     65 ,Afeganistão                        ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Andorra                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Angola                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Antígua e Barbuda                  ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Arábia Saudita                     ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Aruba                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Bahamas                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Bangladesh                         ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Barbados                           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Belize                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Benim                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Bermudas                           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Bolívia                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Bósnia e Herzegovina               ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Brunei                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Burkina Faso                       ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Burundi                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Butão                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Camarões                           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Camboja                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Chade                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Comores                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Congo                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Costa Rica                         ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Djibouti                           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,El Salvador                        ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Emirados Árabes Unidos             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Eritreia                           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Essuatíni                          ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Estados Federados da Micronésia    ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Estônia                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Finlândia                          ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Gabão                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Gâmbia                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Gana                               ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Guam                               ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Guiana                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Guiné                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Guiné Equatorial                   ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Guiné-Bissau                       ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Haiti                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Honduras                           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Iêmen                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Ilhas Cayman                       ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Ilhas Cook                         ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Ilhas Marshall                     ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Ilhas Salomão                      ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Ilhas Virgens Americanas           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Ilhas Virgens Britânicas           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Iraque                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Islândia                           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Kiribati                           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Kuwait                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Laos                               ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Lesoto                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Letônia                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Líbano                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Libéria                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Líbia                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Liechtenstein                      ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Luxemburgo                         ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Macedônia do Norte                 ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Madagascar                         ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Malawi                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Maldivas                           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Mali                               ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Malta                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Maurício                           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Mauritânia                         ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Mianmar                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Moçambique                         ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Mônaco                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Montenegro                         ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Namíbia                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Nauru                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Nepal                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Nicarágua                          ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Níger                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Nigéria                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Omã                                ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Palau                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Palestina                          ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Papua-Nova Guiné                   ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Paraguai                           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,República Centro-Africana          ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,República Democrática do Congo     ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Ruanda                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Samoa                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Samoa Americana                    ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,San Marino                         ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,São Cristóvão e Névis              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,São Tomé e Príncipe                ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,São Vicente e Granadinas           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Seicheles                          ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Senegal                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Serra Leoa                         ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Síria                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Somália                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Sri Lanka                          ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Sudão                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Sudão do Sul                       ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Suriname                           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Tanzânia                           ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Timor-Leste                        ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Togo                               ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Tonga                              ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Trinidad e Tobago                  ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Turcomenistão                      ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Tuvalu                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Uruguai                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Vanuatu                            ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Venezuela                          ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Vietnã                             ,   0 ,    0 ,     0 ,  0.0 ,         0
+     65 ,Zimbábue                           ,   0 ,    0 ,     0 ,  0.0 ,         0
